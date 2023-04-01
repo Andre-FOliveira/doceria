@@ -1,0 +1,128 @@
+	@media (max-width: 1050px) {
+
+		.titulo{
+			margin-left: 25vw;
+			margin-top: 2vw;
+			font-size: 35px;
+		  }
+}
+
+@media (max-width: 967px) {
+
+	.titulo{
+		font-size: 30px;
+	  }
+}
+
+@media (max-width: 860px) {
+	.sobre p{
+		font-size: 12px;
+		word-spacing: 5px;
+	  }
+}
+
+@media (max-width: 760px) {
+	.container-sobre{
+		height: 50vw;
+  }	
+
+}
+
+
+@media (max-width: 718px) {
+
+	.titulo{
+		font-size: 20px;
+	  }
+
+	  .container .menu{
+		margin-top: 13vw;
+	  }
+}
+
+
+@media (max-width: 680px) {}
+
+@media (max-width: 600px) {
+	.navbar a span {
+		font-size: 10px;
+	}
+
+	.navbar:hover a span {
+		margin-left: -10px;
+	}
+
+	nav .navbar-item i {
+		width: 3px;
+
+	}
+
+	.container-sobre{
+		height: 70vw;
+  }
+
+}
+
+@media (max-width: 510px) {
+
+	.container-sobre{
+		height: 90vw;
+  }
+}
+
+
+@media (max-width: 480px) {
+	.titulo{
+		font-size: 15px;
+	  }
+}
+
+@media (max-width: 464px) {
+
+	.container-sobre{
+		height: 120vw;
+  }
+}
+
+@media (max-width: 435px) {
+  .titulo{
+	font-size: 12px;
+  }
+
+}
+
+@media (max-width: 388px) {
+	.container-sobre{
+		height: 180vw;
+  }
+}
+
+
+@media (max-width: 362px) {
+
+	.titulo{
+		width: 70vw;
+		font-size: 12px;
+	  }
+
+	  .container .menu{
+		margin-top: 15vw;
+	  }
+
+
+  .titulo{
+	font-size: 10px;
+  }
+}
+
+
+@media (max-width: 340px) {
+
+	.container-sobre{
+		height: 180vw;
+  }
+
+  .container-sobre{
+	height: 200vw;
+}
+}
